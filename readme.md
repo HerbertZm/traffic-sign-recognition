@@ -23,7 +23,7 @@
   - imutils
   - matplotlib
   - TensorFlow 2.0 (either CPU or GPU, depending on your hardware)
-- (It it recommended to work on a virtual environment to not break your Python installation in case anything goes wrong)
+- (It is recommended to work on a virtual environment to not break your Python installation in case anything goes wrong)
 - You can install them using pip like this:
   ```
     $ pip install opencv-contrib-python
