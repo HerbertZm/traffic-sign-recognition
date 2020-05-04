@@ -1,9 +1,8 @@
 
 # Smart Control Road
 
-## Table of Contents (Optional)
+## Table of Contents
 
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Features](#features)
