@@ -1,5 +1,5 @@
 # USAGE
-# python predict.py --model output/trafficsignnet.model --images gtsrb-german-traffic-sign/Test --examples examples
+# python predict.py --model [model] --images [images] --examples examples
 
 # import the necessary packages
 from tensorflow.keras.models import load_model

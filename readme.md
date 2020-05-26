@@ -39,7 +39,7 @@
 ## Team
   - Herbert Zurita
   - Alfer Durán
-  - Enrique Vazquez
+  - Enrique Vasquez
   - Omar Barbosa
   - Ramiro Lara
 
